@@ -1,4 +1,4 @@
-# 🛍️ Shopify Store — Modern E-Commerce Frontend
+# 🛍️ Urbanova Store — Modern E-Commerce Frontend
 
 A clean, minimal e-commerce frontend built with **React** and **Tailwind CSS**, inspired by modern Dribbble design aesthetics.
 
@@ -23,7 +23,7 @@ A clean, minimal e-commerce frontend built with **React** and **Tailwind CSS**, 
 ## 🗂️ Project Structure
 
 ```
-Shopify/
+Urbanova/
 ├── index.html                    # App entry HTML with SEO meta tags
 ├── vite.config.js                # Vite + Tailwind CSS v4 plugin config
 ├── package.json                  # Dependencies and scripts
@@ -58,7 +58,7 @@ Shopify/
 
 ```bash
 # 1. Navigate to the project directory
-cd Shopify
+cd Urbanova
 
 # 2. Install dependencies
 npm install
